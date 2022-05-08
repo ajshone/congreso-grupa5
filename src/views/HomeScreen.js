@@ -1,6 +1,5 @@
 import React from 'react';
 import Navbar from '../components/NavBar';
-import Home from '../components/Home';
 import { useAuth } from '../contexts/AuthContext';
 import { Navigate } from 'react-router-dom';
 
